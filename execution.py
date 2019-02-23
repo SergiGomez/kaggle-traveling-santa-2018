@@ -55,9 +55,6 @@ def prepare_files(folder):
 
 prepare_files(folder='1222_LKH_A4C3_init_local')
 
-
-# os.system('/home/luis/src/LKH-2.0.9/LKH temp/mat_.par')
-#
 # path = np_read_output_LKH('temp/tsp_solution.csv')[:-1]
 # path = subtour[path]
 
